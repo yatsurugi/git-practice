@@ -3,4 +3,4 @@
 ローカルリポで変更　　
 rebase-practice ブランチで更新(rebase conflict用)
 rebase用
-stash practice
+stash practice(トラック済)
